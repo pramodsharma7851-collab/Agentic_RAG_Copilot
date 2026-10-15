@@ -540,4 +540,6 @@ Protected by the `X-Admin-Key` request header.
 Uploads a document and adds its chunks to Pinecone.
 
 ---
+#Note:
+Future Progress: Soon I'll live it ,Currently I am working on it's webapp and UI portion.
 
